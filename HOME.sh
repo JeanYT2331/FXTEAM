@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear
+
 echo "  BIENVENIDO AL SCRIPT DEL TEAM FX  "
 echo "  "
 echo "     CREADOR Y DESARROLLADOR --- Jean YT ---      "
