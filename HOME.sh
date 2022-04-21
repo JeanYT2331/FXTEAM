@@ -1,2 +1,15 @@
 #!/bin/bash
 
+echo "  BIENVENIDO AL SCRIPT DEL TEAM FX  "
+echo "  "
+echo "     CREADOR Y DESARROLLADOR --- Jean YT ---      "
+echo "  "
+echo "   ADMINISTRADORES DEL TEAM FX !!!   "
+echo "  --- MrYisusRX ---  "
+echo "  --- MISTERIO YT ---  "
+echo "  --- EMILIANO FX ---  "
+echo "  "
+echo "      LEGION FX - FUNDADA POR --- Jean YT     "
+echo " Para Usar La Herramienta De SPAM DE SMS "
+echo " ESCRIBE :  bash SETSMS.sh "
+echo "  "
