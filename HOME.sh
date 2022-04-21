@@ -2,6 +2,11 @@
 
 clear
 
+
+echo "  "
+echo "  "
+
+
 echo "  BIENVENIDO AL SCRIPT DEL TEAM FX  "
 echo "  "
 echo "     CREADOR Y DESARROLLADOR --- Jean YT ---      "
@@ -22,3 +27,4 @@ echo " USUARIO MUNDO BINNERS : REALHACKRH  "
 echo " PASSWORD MUNDO BINNERS : 593   "
 echo "  "
 echo "     EL CONOCIMIENTO NO TIENE FIN !!!     "
+echo "  "
